@@ -1,0 +1,10 @@
+Column0: Water temperature (WT)
+Column1: pH
+Column2: Dissolved oxygen (DO)
+Column3: Electrical conductivity (EC)
+Column4: Turbidity (Tur)
+Column5: Chemical oxygen demand (COD)
+Column6: Ammonia (NH3-N)
+Column7: Total phosphorus (TP)
+Column8: Total nitrogen (TN)
+Column9: Chlorophyll-a concentration (Chla)
